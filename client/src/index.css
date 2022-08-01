@@ -18,7 +18,7 @@ body {
   background-image: 
     radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
     radial-gradient(at 50% 0%, rgb(221, 235, 31) 0, transparent 50%), 
-    radial-gradient(at 100% 0%, rgb(19, 56, 40) 0, transparent 50%);
+    radial-gradient(at 100% 0%, rgb(224, 167, 215) 0, transparent 50%);
 }
 
 .gradient-bg-services {

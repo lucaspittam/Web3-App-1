@@ -21,7 +21,7 @@
 <h3 align="center">Personal Portfolio</h3>
 
   <p align="center">
-    This is a Crypto transfer exhange i built with React and Solidity.
+    This is a Crypto transfer exhange i built with React and Solidity. Functionality at this point is just connecting wallet and sending crypto to other wallets 
     <br />
     <a href="https://github.com/lucaspittam/Web3-App-12"><strong>Explore the docs »</strong></a>
     <br />
